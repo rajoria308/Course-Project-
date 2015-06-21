@@ -3,7 +3,7 @@
 * The data from human recognition activity using smartphone dataset.
 
 ## Special Note about Observations:
-*The variable[, id] has 1 to 30 ids and after every 30 observations the id is repeated from 1 and with variable[, activity] it has 6 activity parameters on which different ids or subjects have been tested and trained namely "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "STANDING", "SITTING" and "LAYING" each id is tested upon each one.
+* The variable[, id] has 1 to 30 ids and after every 30 observations the id is repeated from 1 and with variable[, activity] it has 6 activity parameters on which different ids or subjects have been tested and trained namely "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "STANDING", "SITTING" and "LAYING" each id is tested upon each one.
 
 ## Format:
 * A data frame with 180 observations and 68 variables:-
