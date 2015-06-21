@@ -109,6 +109,4 @@ final_data <- data.frame()
 
 final_data <- aggregate(. ~ (id + activity), data = new_data, FUN = function(new_data) mn = mean(new_data))
 
-# Writing to a file location on local desktop
-write.table(final_data, "C:/Users/hp/Course-Project-/tidy_data.txt", row.names = FALSE)
-
+print (final_data)
