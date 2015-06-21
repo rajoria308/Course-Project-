@@ -4,6 +4,7 @@
 
 ## Format:
 * A data frame with 180 observations and 68 variables :-
+
 1. [, id] - Total number of 30 unique ids and repeated after every 30 elements.
 
 2. [, activity] - Activity performed by the each id for collecting data namely walking, walking upstairs, walking downstairs, standing, sitting and laying.
